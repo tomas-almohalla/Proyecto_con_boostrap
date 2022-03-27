@@ -1,0 +1,27 @@
+@import '../parcials/general.css';
+
+.img_prod{
+    max-width: 40em;
+    height: 20em;
+}
+
+.ubicacion{
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.espacio{
+    padding: 5rem;
+}
+
+h2{
+    font-size: var(--text_xm);
+}
+
+.descripcion {
+    font-size: var(--text_md);
+}
+.fondo_prod{
+    background-color: rgb(133, 165, 133);
+}
